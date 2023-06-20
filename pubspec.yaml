@@ -11,6 +11,7 @@ dependencies:
     sdk: flutter
   flutter_riverpod: ^2.3.6
   flutter_webrtc: ^0.9.34
+  http: ^1.0.0
 
 dev_dependencies:
   flutter_test:
